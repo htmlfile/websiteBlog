@@ -24,7 +24,7 @@ input
 }
 
 .travel_mainDiv img{
-    width:100%
+    width:100%;
 }
 
 .travel_mainDiv hr{
@@ -52,4 +52,22 @@ input
 
 .movie_text span{
     color:#ff7700;
+}
+
+
+.enviroment_li{
+    margin-top:13px;
+}
+
+.enviroment_li h4{
+    border-bottom: 1px solid white;
+    padding:8px;
+}
+
+enviroment_li p{
+    margin-top:10px;
+}
+
+enviroment_li img{
+    border-radius:25px;
 }
